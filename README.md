@@ -1,2 +1,22 @@
-# ATMInterface
-Java console app simulating ATM operations: login with user ID and PIN, view transaction history, withdraw, deposit, transfer funds, check balance, and exit. Demonstrates object-oriented design, control flow, and exception handling.
+# ATM Interface Project
+
+A beginner-friendly Java console application simulating ATM operations:
+- Login with User ID and PIN
+- View transaction history
+- Withdraw, deposit, transfer funds
+- Check balance
+- Exit system safely
+
+## Technologies
+- Java
+- Eclipse IDE
+- Git & GitHub
+
+## Features Demonstrated
+- Object-oriented design
+- Control flow with loops and conditionals
+- Exception handling
+- Modular class structure
+
+## Author
+Kamo
