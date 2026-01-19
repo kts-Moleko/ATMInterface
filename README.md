@@ -1,22 +1,15 @@
-# ATM Interface Project
+## ATMInterface System
 
-A beginner-friendly Java console application simulating ATM operations:
-- Login with User ID and PIN
-- View transaction history
-- Withdraw, deposit, transfer funds
-- Check balance
-- Exit system safely
+A secure, file-persistent ATM system with admin controls, audit logging, and user management.
 
-## Technologies
-- Java
-- Eclipse IDE
-- Git & GitHub
+### Features
+- User registration and login with SHA-256 PIN encryption
+- Deposit, withdraw, and balance check
+- Admin dashboard for user deletion and balance viewing
+- Audit logging and transaction history
+- File overwrite protection and CLI navigation
 
-## Features Demonstrated
-- Object-oriented design
-- Control flow with loops and conditionals
-- Exception handling
-- Modular class structure
-
-## Author
-Kamo
+### How to Run
+1. Clone the repo
+2. Open in Eclipse
+3. Run `ATMMain.java`

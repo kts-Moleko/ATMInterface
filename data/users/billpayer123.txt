@@ -1,0 +1,7 @@
+userId=billpayer123
+name=Test User
+email=billpayer@example.com
+phone=0123456789
+PIN:fe2592b42a727e977f055947385b709cc82b16b9a87f88c6abf3900d65d0cdc3
+accountId=ACC-billpayer123
+balance=750.0
